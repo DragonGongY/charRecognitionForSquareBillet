@@ -1,0 +1,2 @@
+C:\caffe-ssd-microsoft\Build\x64\Release\ssd_detect.exe -confidence_threshold=0.3 C:\Users\Administrator\Desktop\zfsb\location\deploy.prototxt C:\Users\Administrator\Desktop\zfsb\location\VGG_VOC0712_SSD_512x512_iter_116000.caffemodel C:\Users\Administrator\Desktop\1.jpg
+pause

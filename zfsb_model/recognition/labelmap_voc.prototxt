@@ -1,0 +1,186 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "background"
+}
+item {
+  name: "1"
+  label: 1
+  display_name: "1"
+}
+item {
+  name: "2"
+  label: 2
+  display_name: "2"
+}
+item {
+  name: "3"
+  label: 3
+  display_name: "3"
+}
+item {
+  name: "4"
+  label: 4
+  display_name: "4"
+}
+item {
+  name: "5"
+  label: 5
+  display_name: "5"
+}
+item {
+  name: "6"
+  label: 6
+  display_name: "6"
+}
+item {
+  name: "7"
+  label: 7
+  display_name: "7"
+}
+item {
+  name: "8"
+  label: 8
+  display_name: "8"
+}
+item {
+  name: "9"
+  label: 9
+  display_name: "9"
+}
+item {
+  name: "0"
+  label: 10
+  display_name: "0"
+}
+item {
+  name: "A"
+  label: 11
+  display_name: "A"
+}
+item {
+  name: "B"
+  label: 12
+  display_name: "B"
+}
+item {
+  name: "C"
+  label: 13
+  display_name: "C"
+}
+item {
+  name: "D"
+  label: 14
+  display_name: "D"
+}
+item {
+  name: "E"
+  label: 15
+  display_name: "E"
+}
+item {
+  name: "F"
+  label: 16
+  display_name: "F"
+}
+item {
+  name: "G"
+  label: 17
+  display_name: "G"
+}
+item {
+  name: "H"
+  label: 18
+  display_name: "H"
+}
+item {
+  name: "I"
+  label: 19
+  display_name: "I"
+}
+item {
+  name: "J"
+  label: 20
+  display_name: "J"
+}
+item {
+  name: "K"
+  label: 21
+  display_name: "K"
+}
+item {
+  name: "L"
+  label: 22
+  display_name: "L"
+}
+item {
+  name: "M"
+  label: 23
+  display_name: "M"
+}
+item {
+  name: "N"
+  label: 24
+  display_name: "N"
+}
+item {
+  name: "O"
+  label: 25
+  display_name: "O"
+}
+item {
+  name: "P"
+  label: 26
+  display_name: "P"
+}
+item {
+  name: "Q"
+  label: 27
+  display_name: "Q"
+}
+item {
+  name: "R"
+  label: 28
+  display_name: "R"
+}
+item {
+  name: "S"
+  label: 29
+  display_name: "S"
+}
+item {
+  name: "T"
+  label: 30
+  display_name: "T"
+}
+item {
+  name: "U"
+  label: 31
+  display_name: "U"
+}
+item {
+  name: "V"
+  label: 32
+  display_name: "V"
+}
+item {
+  name: "W"
+  label: 33
+  display_name: "W"
+}
+item {
+  name: "X"
+  label: 34
+  display_name: "X"
+}
+item {
+  name: "Y"
+  label: 35
+  display_name: "Y"
+}
+item {
+  name: "Z"
+  label: 36
+  display_name: "Z"
+}
+
